@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 420,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 984,
+      "quantity": 1200,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "smarthphone",
+      "price": 158,
+      "quantity": 40,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "watch",
+      "price": 193,
+      "quantity": 300,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "vvvvv",
+      "price": "4300",
+      "quantity": 600,
+      "selected": true,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
